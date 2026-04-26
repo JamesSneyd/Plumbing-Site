@@ -1,9 +1,9 @@
-﻿{
+{
   "name": "mark-doyles-plumbing",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "python -m http.server 5173 -d mark-doyles-plumbing",
-    "start": "python -m http.server 5173 -d mark-doyles-plumbing"
+    "dev": "python -m http.server 5173",
+    "start": "python -m http.server 5173"
   }
 }
